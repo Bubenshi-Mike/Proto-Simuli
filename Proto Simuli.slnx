@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Application/Application.csproj" />
+    <Project Path="Domain/Domain.csproj" />
+    <Project Path="Infrastructure/Infrastructure.csproj" />
+    <Project Path="Persistence/Persistence.csproj" />
+    <Project Path="ProtoSimuli.Service/ProtoSimuli.Service.csproj" />
+    <Project Path="SharedKernel/SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>

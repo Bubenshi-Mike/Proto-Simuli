@@ -1,0 +1,11 @@
+﻿global using Application.Common.Interfaces;
+global using SharedKernel.DTOs;
+global using SharedKernel.Enums;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Logging;
+global using Infrastructure.Jobs;
+global using Infrastructure.Services;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Domain.Entities;
+global using System.Text;
