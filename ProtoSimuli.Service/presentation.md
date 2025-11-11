@@ -718,8 +718,8 @@ Test in lab ? Measure baseline ? Deploy with confidence
 
 **Contact:**
 - Name: Mike Bubenshi
-- Email: mikebubenshi@gmail.com
-- GitHub: [repository-link]
+- Email: [mikebubenshi@gmail.com](mailto:mikebubenshi@gmail.com)
+- GitHub: [Protocol Simulator](https://github.com/Bubenshi-Mike/Proto-Simuli)
 
 **"Validating RIP Protocol Behavior Through Simulation"**
 
