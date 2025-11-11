@@ -21,7 +21,7 @@ A **complete RIP (Routing Information Protocol) simulator** built with ASP.NET C
 
 ### Prerequisites
 ```bash
-- .NET 8.0 SDK
+- .NET 9.0 SDK
 - Visual Studio 2022 / VS Code / Rider
 - Windows/Linux/macOS
 ```
@@ -29,7 +29,7 @@ A **complete RIP (Routing Information Protocol) simulator** built with ASP.NET C
 ### Run the Simulator
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone
 cd RipProtocolSimulator
 
 # Restore packages
